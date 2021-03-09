@@ -3,7 +3,7 @@ import './App.css';
 import Welcome from './Welcome'
 function App() {
   return (
-   <Welcome  name="eagles"/>   
+   <Welcome  name="eagles"/>    //exact
   )
 }
 //html css js ; jsx 
